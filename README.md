@@ -2,8 +2,8 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Collins Isidiho
 =======================================================================================================================================
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://pin.it/5h6A5qf)")
-Information Technology Professional
+
+Information Technology & Cybersecurity enthusiast
 -----------------------------------
 
 I'm deeply passionate about IT and Cybersecurity. I strive to secure the digital world, merging my love for technology with a commitment to keeping it safe. Constantly learning, tinkering, and contributing to the ever-evolving tech landscape.
