@@ -1,6 +1,6 @@
 ![Blue Illustration Technology LinkedIn Banner (2)](https://github.com/CollinsU99/CollinsU99/assets/124742607/2f48ee3a-08e6-470f-92da-c1296c9ae7d1)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Collins Isidiho
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Collins Isidiho
 =======================================================================================================================================
 
 Information Technology & Cybersecurity enthusiast
