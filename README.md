@@ -27,3 +27,12 @@ I'm deeply passionate about IT and Cybersecurity. I strive to secure the digital
 <a href="http://www.github.com/CollinsU99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinsU99&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/CollinsU99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsU99&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CollinsU99/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CollinsU99/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/CollinsU99/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/CollinsU99/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/CollinsU99/ticket-lifecycle)
