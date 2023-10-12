@@ -11,7 +11,6 @@ I'm deeply passionate about IT and Cybersecurity. I strive to secure the digital
 * 🌍  I'm based in New York
 * 🧠  I'm Studying for CompTIA A+
 * 🤝  I'm open to collaborating on Home Labs
-* ⚡  I have a dog named Timi
 
 
 ### 🤳Connect with me
