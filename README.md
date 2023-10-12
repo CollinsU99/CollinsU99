@@ -9,7 +9,7 @@ Information Technology Professional
 I'm deeply passionate about IT and Cybersecurity. I strive to secure the digital world, merging my love for technology with a commitment to keeping it safe. Constantly learning, tinkering, and contributing to the ever-evolving tech landscape.
 
 * 🌍  I'm based in New York
-* 🧠  I'm learning Python, CompTIA A+ and S+
+* 🧠  I'm Studying for CompTIA A+
 * 🤝  I'm open to collaborating on Home Labs
 * ⚡  I have a dog named Timi
 
