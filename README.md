@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Professional
 -----------------------------------
 
-I'm deeply passionate about IT and Cybersecurity. I strive to secure the digital world, merging my love for technology with a commitment to keeping it safe. Constantly learning, tinkering, and contributing to the ever-evolving tech landscape.
+I'm deeply passionate about IT and cybersecurity. I strive to secure the digital world, merging my love for technology with a commitment to keeping it safe. Constantly learning, tinkering, and contributing to the ever-evolving tech landscape.
 
 * 🌍  I'm based in New York
 * 🧠  I'm studying for CompTIA A+
 * 🤝  I'm open to collaborating on Home Labs
-* 😊  I'm not sure if I'm an IT expert or a magician. I can make things disappear from your computer with the click of a button.
+* 😊  I'm not sure if I'm an IT expert or a magician, but I can make things disappear from your computer with the click of a button.
 
 
 ### 🤳Connect with me
