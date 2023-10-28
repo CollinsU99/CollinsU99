@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Professional
 -----------------------------------
 
-I'm deeply passionate about IT and cybersecurity. I strive to secure the digital world, merging my love for technology with a commitment to keeping it safe. Constantly learning, tinkering, and contributing to the ever-evolving tech landscape.
+I am deeply passionate about IT and cybersecurity, and my dedication is to help and protect people and organizations. I merge my profound enthusiasm for technology with a dedication to its safety. I am committed to lifelong learning and continuous improvement in the ever-evolving tech landscape.
 
 * 🌍  I'm based in New York
 * 🧠  I'm studying for CompTIA A+
