@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Professional
 -----------------------------------
 
-I am deeply passionate about IT, and my dedication is to help and protect people and organizations. I am committed to lifelong learning and continuous improvement in the ever-evolving tech landscape.
+I am deeply passionate about IT, and my commitment lies in leveraging my skills to safeguard and assist both individuals and organizations. I am driven by a desire for continuous improvement, understanding that in the dynamic field of IT, staying current is not only a professional responsibility but a personal commitment to delivering the best possible solutions and services.
 
 * 🌍  I'm based in New York
 * 🧠  I'm currently learning Python
