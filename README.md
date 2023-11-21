@@ -6,10 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Professional
 -----------------------------------
 
-I am deeply passionate about IT, and my dedication is to help and protect people and organizations. I merge my profound enthusiasm for technology with a dedication to its safety. I am committed to lifelong learning and continuous improvement in the ever-evolving tech landscape.
+I am deeply passionate about IT, and my dedication is to help and protect people and organizations. I am committed to lifelong learning and continuous improvement in the ever-evolving tech landscape.
 
 * 🌍  I'm based in New York
-* 🧠  I'm studying for Network+
+* 🧠  I'm currently learning Python
 * 🤝  I'm open to collaborating on Home Labs
 * 😊  I'm not sure if I'm an IT expert or a magician, but I can make things disappear from your computer with the click of a button.
 
