@@ -11,7 +11,7 @@ I am deeply passionate about IT, and my commitment lies in leveraging my skills 
 * 🌍  I'm based in New York
 * 🧠  I'm currently learning Python
 * 🤝  I'm open to collaborating on Home Labs
-* 😊  I'm not sure if I'm an IT expert or a magician, but I can make things disappear from your computer with the click of a button.
+* 😊   I'm not sure if I'm an IT expert or a magician, but I can make things disappear from your computer with the click of a button.
 
 
 ### 🤳Connect with me
