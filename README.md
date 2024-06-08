@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Professional
 -----------------------------------
 
-I am deeply passionate about IT, and my commitment lies in leveraging my skills to safeguard and assist both individuals and organizations.
+I am deeply passionate about IT and dedicated to utilizing my skills to protect and support both individuals and organizations.
 
 * 🌍  I'm based in New York
 * 🧠  I'm currently learning Python
